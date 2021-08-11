@@ -134,9 +134,9 @@ body{
 }
 .home-hr{
     position: relative;
-    bottom: 36px;
-
-   right: 270px;
+    bottom: 48px;
+    right: 0px;
+    left: 65px;
     width: 45px;
     border: 2px solid #EA513E;
     z-index: 1;
@@ -144,13 +144,15 @@ body{
 .Pages{
     align-self: center;
     margin: 0 10px;
+    display: flex;
 }
 .Pages a{
-    margin: 0 22px;
+    margin: 0 24px;
     text-decoration: none;
     color: black;
     text-transform: uppercase;
     font-size: 15px;
+    
 }
 .Pages .home{
     color:#EA513E;
