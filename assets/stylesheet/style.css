@@ -421,7 +421,7 @@ p h2{
    flex-direction: column;
    justify-content: space-between;
    width: 30%;
-   height: 650px;
+   height: 100%;
    padding: 20px 30px;
    position: fixed;
 }
